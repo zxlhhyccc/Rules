@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > iTalkBB
   - PROCESS-NAME,com.italkbbtv.phone
   - DOMAIN-SUFFIX,api.tv.colnv.com

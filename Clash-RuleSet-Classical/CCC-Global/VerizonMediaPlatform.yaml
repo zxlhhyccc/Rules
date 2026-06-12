@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   # > Verizon Media Platform
   - DOMAIN-SUFFIX,verizondigitalmedia.com
   - IP-CIDR,5.104.64.0/24,no-resolve

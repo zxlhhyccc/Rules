@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Twitch
   - PROCESS-NAME,tv.twitch.android.app
   - DOMAIN-SUFFIX,ext-twitch.tv

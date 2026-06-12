@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   # 360云
   - IP-CIDR,101.197.0.0/16,no-resolve
   - IP-CIDR,101.198.0.0/17,no-resolve

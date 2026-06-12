@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > LineTV
   - PROCESS-NAME,com.linecorp.linetv
   - DOMAIN-SUFFIX,chocotv.com.tw

@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Cloudflare
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-dns.com

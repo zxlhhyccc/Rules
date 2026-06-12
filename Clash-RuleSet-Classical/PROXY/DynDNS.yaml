@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > DynDNS
   - DOMAIN-SUFFIX,blogdns.org
   - DOMAIN-SUFFIX,dyn.com

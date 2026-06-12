@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > LocalLan
   - DOMAIN-SUFFIX,foo.com
   - DOMAIN-SUFFIX,ip6-localhost

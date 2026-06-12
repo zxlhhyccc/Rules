@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > OpenAI
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,ai.com

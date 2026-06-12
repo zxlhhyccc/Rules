@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Bitwarden
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bitwarden.eu

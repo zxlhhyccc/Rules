@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > DigitalOcean
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com

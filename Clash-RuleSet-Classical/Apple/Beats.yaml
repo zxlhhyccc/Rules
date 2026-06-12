@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Beats
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com

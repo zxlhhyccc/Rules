@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Last.fm
   - DOMAIN-SUFFIX,audioscrobbler.com
   - DOMAIN-SUFFIX,last.fm

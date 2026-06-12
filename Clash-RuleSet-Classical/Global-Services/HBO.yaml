@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > HBO GO HKG & HBO MAX
   - PROCESS-NAME,com.hbo.hbonow
   - DOMAIN-SUFFIX,cinemax.com

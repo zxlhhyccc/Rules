@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   # > 京东云
   - IP-CIDR,101.124.0.0/16,no-resolve
   - IP-CIDR,101.124.0.0/18,no-resolve

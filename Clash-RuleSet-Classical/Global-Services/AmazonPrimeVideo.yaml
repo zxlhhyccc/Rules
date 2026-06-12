@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Amazon Prime Video
   - PROCESS-NAME,com.amazon.avod.thirdpartyclient
   - DOMAIN-SUFFIX,aiv-cdn.net

@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > UnionPay (中国银联)
   - DOMAIN-SUFFIX,95516.com
   - DOMAIN-SUFFIX,95516.net

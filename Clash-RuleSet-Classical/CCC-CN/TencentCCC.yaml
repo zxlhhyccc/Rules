@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   # > 腾讯云
   - IP-CIDR,1.116.116.0/23,no-resolve
   - IP-CIDR,1.116.118.0/23,no-resolve

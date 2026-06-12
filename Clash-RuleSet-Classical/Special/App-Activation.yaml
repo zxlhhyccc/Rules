@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > App Activation
   # >> Adobe online activation domains
   - DOMAIN-SUFFIX,3dns-1.adobe.com

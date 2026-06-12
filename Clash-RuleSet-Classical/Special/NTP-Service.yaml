@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > ⏰ NTP服务
   - DOMAIN-SUFFIX,time.nist.gov
   ## > openwrt提供的ntp服务

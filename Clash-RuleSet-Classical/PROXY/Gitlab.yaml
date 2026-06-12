@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Gitlab
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.net

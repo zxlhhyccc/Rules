@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## >> 支付宝
   - DOMAIN-SUFFIX,alipay
   - DOMAIN-SUFFIX,alipay-corp.com

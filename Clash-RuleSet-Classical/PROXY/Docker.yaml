@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io

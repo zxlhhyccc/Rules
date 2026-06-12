@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Vercel
   - DOMAIN-SUFFIX,err.sh
   - DOMAIN-SUFFIX,hyper.is

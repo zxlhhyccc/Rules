@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## >> Apple Music
   - DOMAIN-SUFFIX,aod.itunes.apple.com
   - DOMAIN-SUFFIX,applemusic.berlin

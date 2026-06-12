@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Sectigo
   - DOMAIN-SUFFIX,enterprisessl.com
   - DOMAIN-SUFFIX,hackerguardian.com

@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > BiliBiliHMT 哔哩哔哩 港澳台番剧
   - PROCESS-NAME,com.bilibili.app.in
   - PROCESS-NAME,tv.danmaku.bili

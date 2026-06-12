@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## 🙈 Google
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.google.android.gms

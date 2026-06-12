@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   # 网易云
   - IP-CIDR,42.186.0.0/17,no-resolve
   - IP-CIDR,42.186.0.0/16,no-resolve

@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > Slack
   - DOMAIN-SUFFIX,slack-core.com
   - DOMAIN-SUFFIX,slack-edge.com

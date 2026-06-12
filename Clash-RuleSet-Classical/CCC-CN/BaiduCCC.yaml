@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   # > 百度云
   - IP-CIDR,104.193.88.0/24,no-resolve
   - IP-CIDR,104.193.89.0/24,no-resolve

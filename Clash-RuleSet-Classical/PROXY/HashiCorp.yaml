@@ -1,4 +1,4 @@
-payload:
+﻿payload:
   ## > HashiCorp
   - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,hashicorp.com
